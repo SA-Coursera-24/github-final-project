@@ -1,3 +1,5 @@
+git push origin main bug-fix-typo
+
 # github-final-project
 
 ## Simple Interest Calculator
